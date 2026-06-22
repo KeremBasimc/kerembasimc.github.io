@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.blockblaster.game",
+    "sha256_cert_fingerprints":
+["A8:86:B5:FE:F1:87:EA:54:57:11:F1:6B:08:F7:08:5E:BE:3E:1C:CD:D4:4A:98:23:51:4D:93:5B:68:CD:FC:FD"]
+  }
+}]
